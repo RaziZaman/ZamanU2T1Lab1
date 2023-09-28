@@ -1,8 +1,8 @@
 public class Rectangle {
 
-    // instance variables
-    private int length;
-    private int width;
+        // instance variables
+        private int length;
+        private int width;
 
     // constructor to create a Rectangle object with a particular width and length
     public Rectangle(int length, int width) {
